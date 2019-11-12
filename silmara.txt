@@ -1,0 +1,9 @@
+Aula 11 de novembro
+
+Resumo da aula
+
+Conceitos do Git - software de versionamento, onde é possível acompanhar as várias versões do projeto, suas atualizações são os commits e a linha do tempo as branch. É possível ter várias branchs e só depois integrá-las a versão estável.
+
+GitHub é um repositório web
+
+GitBash é o terminal. A comunicação do computador com o GitHub
