@@ -7,3 +7,5 @@ Conceitos do Git - software de versionamento, onde é possível acompanhar as vári
 GitHub é um repositório web
 
 GitBash é o terminal. A comunicação do computador com o GitHub
+
+Será que foi ?
